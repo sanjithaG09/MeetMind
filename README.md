@@ -1,11 +1,5 @@
 <p align="center">
-<pre align="center">
-  __  __           _   __  __ _           _ 
- |  \/  | ___  ___| |_|  \/  (_)_ __   __| |
- | |\/| |/ _ \/ _ \ __| |\/| | | '_ \ / _` |
- | |  | |  __/  __/ |_| |  | | | | | | (_| |
- |_|  |_|\___|\___|\__|_|  |_|_|_| |_|\__,_|
-</pre>
+  <img src="meetmind-logo.jpeg" alt="MeetMind" width="120" />
 </p>
 
 <h1 align="center">MeetMind</h1>
@@ -423,5 +417,6 @@ MIT
 ---
 
 <p align="center">
-  <pre align="center">◈  MeetMind — turn every meeting into a clear record  ◈</pre>
+  <img src="meetmind-logo.jpeg" alt="MeetMind" width="48" /><br />
+  <em>MeetMind — turn every meeting into a clear record</em>
 </p>
