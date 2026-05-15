@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/.env
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# OS
+.DS_Store
