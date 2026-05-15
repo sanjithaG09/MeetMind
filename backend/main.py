@@ -9,7 +9,7 @@ async def lifespan(app: FastAPI):
     yield
 
 
-app = FastAPI(title="AI Meeting Resolution API", lifespan=lifespan)
+app = FastAPI(title="MeetMind API", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
