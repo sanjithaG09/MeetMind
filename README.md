@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="meetmind-logo.jpeg" alt="MeetMind" width="120" />
-</p>
-
 <h1 align="center">MeetMind</h1>
 
 <p align="center">
@@ -417,6 +413,5 @@ MIT
 ---
 
 <p align="center">
-  <img src="meetmind-logo.jpeg" alt="MeetMind" width="48" /><br />
   <em>MeetMind — turn every meeting into a clear record</em>
 </p>
